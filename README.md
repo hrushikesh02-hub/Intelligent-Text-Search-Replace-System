@@ -118,9 +118,6 @@ Before any replacement is performed, the system copies the original file to a ne
 python -m unittest discover
 ```
 
-## Screenshots
-Add application screenshots here.
-
 ## Future Scope
 - More file formats (PDF, DOCX)
 - Advanced encoding detection
