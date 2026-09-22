@@ -1,0 +1,7 @@
+Company Directory
+
+CEO: Amit Sharma (amit.sharma@company.com) - 9123456789
+CTO: Priya Singh (priya.s@company.com) - 8877665544
+Established: 01/01/2010
+
+Please please report issues to IT.

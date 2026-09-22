@@ -1,0 +1,10 @@
+Project Dates
+
+Kickoff: 10/10/2025
+Review: 15/11/2025
+Deadline: 20/12/2025
+
+Team Lead Phone: 9988776655
+Backup Phone: 7788990011
+
+Test test test environment setup is complete.

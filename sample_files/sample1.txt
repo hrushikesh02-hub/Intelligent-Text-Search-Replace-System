@@ -1,0 +1,9 @@
+Student Records
+
+Name: Rahul Patil
+Email: rahul@example.com
+Phone: 9876543210
+Date: 15/08/2026
+Marks: 92
+
+Contact contact information is available here.

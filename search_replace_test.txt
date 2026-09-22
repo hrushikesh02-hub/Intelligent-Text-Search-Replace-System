@@ -1,0 +1,22 @@
+apple
+Apple
+APPLE
+aPpLe
+pineapple
+applesauce
+cat
+CAT
+bobcat
+catalog
+category
+scatter
+2024-01-15
+Invoice #2024-0042
+Here are some numbers: 123 456 7890
+color
+colour
+[ ] { } * + ? . ^ $
+    whitespace
+Unicode: 😊
+aaaa
+aaaaa
